@@ -1,0 +1,16 @@
+.container-fluid.bg
+{
+   min-height: 50vh;
+   margin: 0px;
+   padding: 0px;
+}
+
+img.img-fluid.pic
+{
+height: 60%;
+width: 100%;
+}
+.col-md-6.bg1
+{
+    text-align: end;
+}

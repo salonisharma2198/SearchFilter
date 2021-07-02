@@ -1,0 +1,47 @@
+.top
+{
+    min-height: 10vh;
+    background-color: cadetblue;
+   
+}
+.container-fluid.abc
+{ 
+   margin: 0px;
+   padding: 0px; 
+  
+  
+}
+img.pic{
+  
+  
+   float: right;
+}
+.row.size
+{
+    width: 100%;
+    margin: 0px;
+}
+img.card-img-top
+{
+    width: 100px;
+   align-self: center;
+   margin-top: 10px;
+}
+.card{
+    width: 50%;
+    text-align: center;
+    align-self: center;
+   margin: auto;
+   padding: 10px;
+   border-radius: 8px;
+   box-shadow: 2px 2px 8px 2px rgb(214, 214, 208)
+}
+.col-md-6.search {
+    background-color: cadetblue;  
+}
+.col-md-6.bground{
+    background-image: url("images/book.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
